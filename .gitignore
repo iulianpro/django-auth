@@ -1,0 +1,5 @@
+.env
+.vscode
+.pylintrc
+__pycache__
+db.sqlite3
